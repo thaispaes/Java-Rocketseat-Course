@@ -2,8 +2,8 @@ package br.com.rocketseat.todolist.user;
 
 public class UserModel {
 
-    String username;
-    String name;
-    String password;
+    public String username;
+    public String name;
+    public String password;
     
 }
